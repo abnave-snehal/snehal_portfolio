@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  --cursor-color: white;
+}
+
+:root {
+  --gradient: linear-gradient(to bottom, #ffffff, #f3f4f6); /* white to gray-100 */
+  --text-color: #000000;
+  --primary-color: #ffffff;
+  --secondary-color:#2962DC;
+}
+
+body.dark {
+  --gradient: linear-gradient(to bottom, #000000, #1f2937); 
+  --text-color: #ffff;
+  --primary-color: #000000;
+  --cursor-color: #fff;
+  --secondary-color:#2962DC;
+}
+
+
+body {
+  background-color: black;
+}
