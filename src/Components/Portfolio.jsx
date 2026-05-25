@@ -12,7 +12,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: AI,
-      link: "https://text-to-image-jb.vercel.app/",
+      link: "",
       name: "Movie Explorer",
       stack: ["HTML", "CSS", "Javascript", "Bootstrap", "API"],
       description: "AI-powered text to image generation application",
@@ -20,7 +20,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: Bookstore,
-      link: "https://spectacular-dango-a7d490.netlify.app/",
+      link: "",
       name: "Razorpay Integartion",
       stack: [
         "HTML",
@@ -35,7 +35,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: Cart,
-      link: "https://mangesh-portfolio-rt.vercel.app/",
+      link: "",
       name: "ReduxCart – React Shopping Cart App",
       stack: [
         "HTML",
@@ -49,7 +49,7 @@ const Portfolio = () => {
     {
       id: 4,
       src: Me,
-      link: "https://mangesh-portfolio-rt.vercel.app/",
+      link: "",
       name: "Personal Portfolio",
       stack: [
         "HTML",

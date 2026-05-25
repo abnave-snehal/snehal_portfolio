@@ -34,7 +34,7 @@ const Home = ({ experience }) => {
             I have {experience} years of experience developing websites.
             Currently, I love working on web applications using technologies
             like HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Photoshop,
-            NextJs, TypeScript and Node.js.
+            TypeScript and Node.js.
           </p>
           <div className="flex gap-4 mt-4">
             <Link
