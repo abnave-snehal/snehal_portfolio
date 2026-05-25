@@ -136,7 +136,7 @@ const Portfolio = () => {
                     </a>
 
                     <a
-                      href="https://github.com/mbl43"
+                      href="https://github.com/abnave-snehal"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-2 text-gray-400 hover:text-gray-300 transition-colors duration-300"
